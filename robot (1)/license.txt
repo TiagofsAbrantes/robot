@@ -1,0 +1,11 @@
+Model Information:
+* title:	Robot
+* source:	https://sketchfab.com/3d-models/robot-21944828c5b04a80bc402c32b3ee17ea
+* author:	dgudkov21 (https://sketchfab.com/dgudkov21)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Robot" (https://sketchfab.com/3d-models/robot-21944828c5b04a80bc402c32b3ee17ea) by dgudkov21 (https://sketchfab.com/dgudkov21) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
